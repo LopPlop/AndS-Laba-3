@@ -1,0 +1,6 @@
+﻿  AnDS_Laba-3.cpp
+C:\Users\Dominator\source\repos\AnDS_Laba-3\AnDS_Laba-3\RND_Tree.h(183,30): warning C4293: <<: отрицательное или слишком большое смещение; поведение не определено
+C:\Users\Dominator\source\repos\AnDS_Laba-3\AnDS_Laba-3\RND_Tree.h(187,26): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Dominator\source\repos\AnDS_Laba-3\AnDS_Laba-3\Tree.h(91): warning C4715: Tree<int,int>::Iterator::operator++: значение возвращается не при всех путях выполнения
+C:\Users\Dominator\source\repos\AnDS_Laba-3\AnDS_Laba-3\Tree.h(137): warning C4715: Tree<int,int>::reIterator::operator++: значение возвращается не при всех путях выполнения
+  AnDS_Laba-3.vcxproj -> C:\Users\Dominator\source\repos\AnDS_Laba-3\x64\Debug\AnDS_Laba-3.exe
